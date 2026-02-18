@@ -1,5 +1,3 @@
-# gym-management-system
-Java JDBC application for gym operations management
 # gym management system
 
 A complete console-based Gym Management System built with Java and MySQL. This system manages gym operations including members, trainers, workout plans, equipment, memberships, and payments.
