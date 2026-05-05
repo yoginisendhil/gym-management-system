@@ -19,24 +19,24 @@ A complete console-based Gym Management System built with Java and MySQL. This s
 - Maven
 
 Menu Options:
-Register Member
-View All Members
-Add Trainer
-View All Trainers
-Create Workout Plan
-View Workout Plans by Trainer
-Add Equipment
-View All Equipment
-Create Membership
-View Memberships by Member
-Make Payment
-View Payments by Membership
-Exit
+Register Member,
+View All Members,
+Add Trainer,
+View All Trainers,
+Create Workout Plan,
+View Workout Plans by Trainer,
+Add Equipment,
+View All Equipment,
+Create Membership,
+View Memberships by Member,
+Make Payment,
+View Payments by Membership,
+Exit.
 
 Database Credentials:
 Database: appdb
 Username: root
-Password: examly
+Password: password
 
 Sample Data:
 The system comes pre-loaded with sample data:
